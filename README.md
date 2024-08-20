@@ -21,8 +21,8 @@ contract Token
 {
     // public variables here
 
-    string public Tname= "SANKET";
-    string public Tabbrv ="SK";
+    string public Tname= "ROHIT";
+    string public Tabbrv ="RK";
     uint public totalSupply =0;
     
     // mapping variable here
